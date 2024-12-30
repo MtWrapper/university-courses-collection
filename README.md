@@ -9,8 +9,9 @@
 # Table Of Content
 - [Introduction](#Introduction)
 - [Courses](#Courses)
-- [How To Contribute](#How-To-Contribute)
 - [How To Share](#How-To-Share)
+- [How To Contribute](#How-To-Contribute)
+- [Contact](#Contact)
 
 # Introduction
 The University Courses Collection repository is a curated resource aimed at students, educators, and professionals interested in any field of knowledge.
@@ -22,13 +23,20 @@ By providing access to a diverse array of courses, both core and elective, this 
 - [Computer Science](majors/computer-science/README.md)
 - [Electrical Engineering](majors/electrical-engineering/README.md)
 
+# How To Share
+- [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/MatinGhanbari/university-courses-collection&title=Free%20Programming%20Books&summary=&source=)
+- [Share on Telegram](https://t.me/share/url?url=https://github.com/MatinGhanbari/university-courses-collection)
+
 # How To Contribute
 
 😉 We welcome contributions from everyone! Whether you're a student, educator, or enthusiast, your input can help improve this repository. Please read the [CONTRIBUTING](docs/CONTRIBUTING.md) guide for detailed instructions on how to contribute.
 
 ❤️ Your contributions are greatly appreciated, and together we can create a valuable resource for the Computer Engineering community!
 
-# How To Share
-- [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/MatinGhanbari/university-courses-collection&title=Free%20Programming%20Books&summary=&source=)
-- [Share on Telegram](https://t.me/share/url?url=https://github.com/MatinGhanbari/university-courses-collection)
+# Contact
 
+If you have any questions, suggestions, or feedback, feel free to reach out!
+
+- **Telegram:** [@Ghanbari_Matin](https://t.me/Ghanbari_Matin)
+
+I look forward to hearing from you!
