@@ -24,7 +24,7 @@ By providing access to a diverse array of courses, both core and elective, this 
 
 # How To Contribute
 
-😉 We welcome contributions from everyone! Whether you're a student, educator, or enthusiast, your input can help improve this repository. Please read the [CONTRIBUTING](docs/CONTRIBUTING.md) guide for detailed instructions on how to contribute. [Translations](#translations) are also available.
+😉 We welcome contributions from everyone! Whether you're a student, educator, or enthusiast, your input can help improve this repository. Please read the [CONTRIBUTING](docs/CONTRIBUTING.md) guide for detailed instructions on how to contribute.
 
 ❤️ Your contributions are greatly appreciated, and together we can create a valuable resource for the Computer Engineering community!
 
