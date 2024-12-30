@@ -20,7 +20,7 @@ By providing access to a diverse array of courses, both core and elective, this 
 # Courses
 - [Computer Engineering](/courses/computer-engineering/README.md)
 - [Computer Science](/courses/computer-science/README.md)
-- [Computer Engineering](/courses/electrical-engineering/README.md)
+- [Electrical Engineering](/courses/electrical-engineering/README.md)
 
 # How To Contribute
 
