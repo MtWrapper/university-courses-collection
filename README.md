@@ -18,9 +18,9 @@ The University Courses Collection repository is a curated resource aimed at stud
 By providing access to a diverse array of courses, both core and elective, this repository seeks to support learners at all levels. Whether you are just starting your journey in university or looking to specialize in a particular area, you will find a wealth of information and resources to guide your studies and professional development.
 
 # Courses
-- [Computer Engineering](/courses/computer-engineering/README.md)
-- [Computer Science](/courses/computer-science/README.md)
-- [Electrical Engineering](/courses/electrical-engineering/README.md)
+- [Computer Engineering](majors/computer-engineering/README.md)
+- [Computer Science](majors/computer-science/README.md)
+- [Electrical Engineering](majors/electrical-engineering/README.md)
 
 # How To Contribute
 
