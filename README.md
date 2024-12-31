@@ -37,14 +37,6 @@ Also you can find professors list [here](professors/README.md).
 
 ❤️ Your contributions are greatly appreciated, and together we can create a valuable resource for the Computer Engineering community!
 
-## Contributers
-<a href="https://github.com/MatinGhanbari/university-courses-collection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MatinGhanbari/university-courses-collection" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-
 # How To Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
