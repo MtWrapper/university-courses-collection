@@ -9,9 +9,10 @@
 # Table Of Content
 - [Introduction](#Introduction)
 - [Courses](#Courses)
+- [Professors](#Professors)
 - [How To Share](#How-To-Share)
 - [How To Contribute](#How-To-Contribute)
-- [Contact](#Contact)
+- [How To Contact](#How-To-Contact)
 
 # Introduction
 The University Courses Collection repository is a curated resource aimed at students, educators, and professionals interested in any field of knowledge.
@@ -22,6 +23,9 @@ By providing access to a diverse array of courses, both core and elective, this 
 - [Computer Engineering](majors/computer-engineering/README.md)
 - [Computer Science](majors/computer-science/README.md)
 - [Electrical Engineering](majors/electrical-engineering/README.md)
+
+# Professors
+Also you can find professors list [here](professors/README.md).
 
 # How To Share
 - [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/MatinGhanbari/university-courses-collection&title=Free%20Programming%20Books&summary=&source=)
@@ -41,7 +45,7 @@ By providing access to a diverse array of courses, both core and elective, this 
 Made with [contrib.rocks](https://contrib.rocks).
 
 
-# Contact
+# How To Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out!
 
