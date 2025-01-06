@@ -23,23 +23,23 @@ By providing access to a diverse array of courses, both core and elective, this 
 - [Computer Engineering](majors/computer-engineering/README.md)
 - [Computer Science](majors/computer-science/README.md)
 - [Electrical Engineering](majors/electrical-engineering/README.md)
-- Civil Engineering
-- Mechanical Engineering
-- Chemical Engineering
-- Industrial Engineering
-- Architecture
-- Information Technology
-- Business Administration
-- Mathematics
-- Physics
-- Biology
-- Environmental Engineering
-- Agricultural Engineering
-- Medicine
-- Dentistry
-- Nursing
-- Psychology
-- Law
+- [Civil Engineering](majors/civil-engineering/README.md)
+- [Mechanical Engineering](majors/mechanical-engineering/README.md)
+- [Chemical Engineering](majors/chemical-engineering/README.md)
+- [Industrial Engineering](majors/industrial-engineering/README.md)
+- [Architecture](majors/architecture/README.md)
+- [Information Technology](majors/information-technology/README.md)
+- [Business Administration](majors/business-administration/README.md)
+- [Mathematics](majors/mathematics/README.md)
+- [Physics](majors/physics/README.md)
+- [Biology](majors/biology/README.md)
+- [Environmental Engineering](majors/environmental-engineering/README.md)
+- [Agricultural Engineering](majors/agricultural-engineering/README.md)
+- [Medicine](majors/medicine/README.md)
+- [Dentistry](majors/dentistry/README.md)
+- [Nursing](majors/nursing/README.md)
+- [Psychology](majors/psychology/README.md)
+- [Law](majors/law/README.md)
 
 # Professors
 Also you can find professors list [here](professors/README.md).
