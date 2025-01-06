@@ -1,5 +1,10 @@
 # List of Free Learning Resources for University Courses
 
+# Introduction
+The University Courses Collection repository is a curated resource aimed at students, educators, and professionals interested in any field of knowledge.
+
+By providing access to a diverse array of courses, both core and elective, this repository seeks to support learners at all levels. Whether you are just starting your journey in university or looking to specialize in a particular area, you will find a wealth of information and resources to guide your studies and professional development.
+
 # Table Of Content
 - [Introduction](#Introduction)
 - [Courses](#Courses)
@@ -7,11 +12,6 @@
 - [How To Share](#How-To-Share)
 - [How To Contribute](#How-To-Contribute)
 - [How To Contact](#How-To-Contact)
-
-# Introduction
-The University Courses Collection repository is a curated resource aimed at students, educators, and professionals interested in any field of knowledge.
-
-By providing access to a diverse array of courses, both core and elective, this repository seeks to support learners at all levels. Whether you are just starting your journey in university or looking to specialize in a particular area, you will find a wealth of information and resources to guide your studies and professional development.
 
 # Courses
 - [Computer Engineering](majors/computer-engineering/README.md)
